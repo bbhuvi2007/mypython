@@ -1,0 +1,6 @@
+#even or add
+num=int(input("entre a number:"))
+if num % 2 == 0:
+  print("even number")
+else:
+  print("add number")
